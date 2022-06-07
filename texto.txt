@@ -1,1 +1,1 @@
-lê uma pasta de imagens do usuario e mostra as imagens na tela
+lê imagens da pasta galeria e mostra as imagens na tela
