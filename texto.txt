@@ -1,0 +1,1 @@
+lê uma pasta de imagens do usuario e mostra as imagens na tela
